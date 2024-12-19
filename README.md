@@ -1,4 +1,4 @@
-![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc28yajZzamR2OWI1eHE1Z2NocG51bzZ1eng2eW5pc2syY2k0YXRobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
+![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzl1d21vdXljdnJucDYzOGx0M3M2ZmUwMnp3aWxwazU2NWh1YWlrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5e25aUTZPcI94uMZgv/giphy.gif)
 
 # 💫 About Me: <br>
 🔭 I’m currently working on building scalable full-stack web applications using React.js, Express.js, Node.js, MongoDB, and Firebase. <br>
@@ -8,6 +8,8 @@
 💬 Ask me about building RESTful APIs, integrating frontend with backend, or optimizing database solutions. <br>
 ⚡ Fun fact: I love solving complex coding challenges and continuously push myself to learn new technologies.
 
+
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc28yajZzamR2OWI1eHE1Z2NocG51bzZ1eng2eW5pc2syY2k0YXRobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" style="margin-right: 40 px;margin-left: 0 px">
    
 
 
