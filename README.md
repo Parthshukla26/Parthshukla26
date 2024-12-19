@@ -9,10 +9,6 @@
 ⚡ Fun fact: I love solving complex coding challenges and continuously push myself to learn new technologies.
 
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc28yajZzamR2OWI1eHE1Z2NocG51bzZ1eng2eW5pc2syY2k0YXRobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" style="margin-right: 40 px;margin-left: 0 px">
-   
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parthshukla808) 
 
@@ -22,7 +18,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Parthshukla26&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Parthshukla26&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parthshukla26&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc28yajZzamR2OWI1eHE1Z2NocG51bzZ1eng2eW5pc2syY2k0YXRobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" style="margin-right: 40 px;margin-left: 0 px">
+   
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
