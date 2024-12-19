@@ -1,8 +1,13 @@
 ![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc28yajZzamR2OWI1eHE1Z2NocG51bzZ1eng2eW5pc2syY2k0YXRobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
 
-# 💫 About Me:    
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-<h3 align="center">Full-Stack Developer | Backend Specialist | Tech Enthusiast</h3>
+# 💫 About Me: <br>
+🔭 I’m currently working on building scalable full-stack web applications using React.js, Express.js, Node.js, MongoDB, and Firebase. <br>
+👯 I’m looking to collaborate on innovative projects that involve backend architecture, API development, and real-time data solutions. <br>
+🤝 I’m looking for help with optimizing application performance and exploring advanced backend technologies. <br>
+🌱 I’m currently learning more about cloud computing, containerization (Docker), and enhancing my DevOps skills. <br>
+💬 Ask me about building RESTful APIs, integrating frontend with backend, or optimizing database solutions. <br>
+⚡ Fun fact: I love solving complex coding challenges and continuously push myself to learn new technologies.
+
    
 
 
