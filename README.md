@@ -1,12 +1,13 @@
 ![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzl1d21vdXljdnJucDYzOGx0M3M2ZmUwMnp3aWxwazU2NWh1YWlrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5e25aUTZPcI94uMZgv/giphy.gif)
 
 # 💫 About Me: <br>
-🔭 I’m currently working on building scalable full-stack web applications using React.js, Express.js, Node.js, MongoDB, and Firebase. <br>
-👯 I’m looking to collaborate on innovative projects that involve backend architecture, API development, and real-time data solutions. <br>
-🤝 I’m looking for help with optimizing application performance and exploring advanced backend technologies. <br>
-🌱 I’m currently learning more about cloud computing, containerization (Docker), and enhancing my DevOps skills. <br>
-💬 Ask me about building RESTful APIs, integrating frontend with backend, or optimizing database solutions. <br>
-⚡ Fun fact: I love solving complex coding challenges and continuously push myself to learn new technologies.
+🔭 I’m currently working on building robust backend architectures for full-stack web applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). <br>
+👯 I’m looking to collaborate on backend-driven projects that involve **API development**, **database management**, **authentication**, and real-time data solutions using tools like **Socket.io**. <br>
+🤝 I’m seeking opportunities to optimize **backend performance**, enhance **security practices**, and implement **scalable architectures**. <br>
+🌱 I’m deepening my knowledge of **backend best practices**, **cloud computing**, and **DevOps** with a focus on deploying and scaling applications using **Docker**, **Kubernetes**, and **AWS**. <br>
+💬 Ask me about building **RESTful APIs**, **integrating backend with frontend**, **data optimization**, or working with **MongoDB** and **PostgreSQL**. <br>
+⚡ Fun fact: I love solving complex coding challenges, especially related to backend architectures, and continuously push myself to stay ahead of the curve with new technologies.
+
 
 
 ## 🌐 Socials:
