@@ -29,14 +29,29 @@
 
 <h2 align="left">🌐 Connect with me <img src = "https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="40px" height="40px"></h2>
 <p align="center">
-
 <a href="https://www.linkedin.com/in/parthshukla808" target="blank">
     <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Parth" height="30" width="120" /></a>
-
 <a href="https://twitter.com/ParthShukla808" target="blank">
   <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Parth" height="30" width="120" /></a>
-
 <a href="https://www.instagram.com/parth.codes" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Parth" height="30" width="120" /></a>    
-
+    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Parth" height="30" width="120" /></a>
 </p>
+
+<br>
+<h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="30"/> Languages and Tools <img src="https://media.tenor.com/q4L3wKD-P7YAAAAi/hydra-we-bhack.gif" width="35" height="35"/></h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgresql,mysql,docker,firebase,vercel,redux,github,git,arduino,threejs,python,jwt,linux,figma,postman" />
+</p>
+
+<br>
+<h2 align="left"><img src = "https://www.svgrepo.com/show/475654/github-color.svg" width="25px" height="25px"> My Github Stats <img src = "https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="30px" height="30px"></h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parthshukla26&show_icons=true&locale=en&theme=transparent" height="220px" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parthshukla26&show_icons=true&locale=en&layout=compact&theme=transparent" height="220px" width="315px"/>
+</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthshukla26&theme=transparent&show_icons=true" height="200px"/>
+</p>
+
+<br>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Thanks%20For%20Visiting&section=footer"/></p>
