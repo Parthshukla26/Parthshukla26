@@ -9,7 +9,7 @@
 <h3 align="center">{ Fueled by chai & challenges — Building scalable backends, one commit at a time }</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=parthshukla26&label=Profile%20views&color=0e75b6&style=flat" alt="parthshukla26" height="30"/> </p>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif">
 
 - <img src = "https://icon-library.com/images/avatar-icon-images/avatar-icon-images-4.jpg" width = 25px> Name : **Parth Shukla** 
 - <img src = "https://cdn2.iconfinder.com/data/icons/colored-simple-circle-volume-04/128/circle-flat-general-53623030e-512.png" width = 25px> Occupation : **Backend Developer | MERN Stack Engineer**
