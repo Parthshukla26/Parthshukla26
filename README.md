@@ -20,20 +20,15 @@
 - <img src = "https://cdn-icons-png.flaticon.com/512/12496/12496748.png" width = 25px> My Portfolio : https://parthshukla.dev
 
 <br>
-<h2 align="left"><img src="https://github.com/user-attachments/assets/578f739b-172a-4b8f-a1f6-648ba0b12af5" width="30px" height="30px" "> Hacktoberfest 2024 <img src="https://github.com/user-attachments/assets/0e8a5418-ffc3-440b-91df-b4cb3046d83f" width="30px" height="30px" ></h2>
-<p align="center">
-   <a href="https://holopin.io/@parthshukla26">
-      <img src="https://holopin.me/parthshukla26" alt="Holopin Badges" width="full">
-   </a>
-</p>
+
 
 <h2 align="left">🌐 Connect with me <img src = "https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="40px" height="40px"></h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/parthshukla808" target="blank">
     <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Parth" height="30" width="120" /></a>
-<a href="https://twitter.com/ParthShukla808" target="blank">
+<a href="https://x.com/parthshukla808" target="blank">
   <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Parth" height="30" width="120" /></a>
-<a href="https://www.instagram.com/parth.codes" target="blank">
+<a href="https://www.instagram.com/parthshukla7531/" target="blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Parth" height="30" width="120" /></a>
 </p>
 
@@ -54,4 +49,4 @@
 </p>
 
 <br>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Thanks%20For%20Visiting&section=footer"/></p>
+
