@@ -1,34 +1,56 @@
-![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzl1d21vdXljdnJucDYzOGx0M3M2ZmUwMnp3aWxwazU2NWh1YWlrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5e25aUTZPcI94uMZgv/giphy.gif)
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzl1d21vdXljdnJucDYzOGx0M3M2ZmUwMnp3aWxwazU2NWh1YWlrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5e25aUTZPcI94uMZgv/giphy.gif" alt="MasterHead">
+</p>
 
-# 💫 About Me: <br>
-🔭 I’m currently working on building robust backend architectures for full-stack web applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). <br>
-👯 I’m looking to collaborate on backend-driven projects that involve **API development**, **database management**, **authentication**, and real-time data solutions using tools like **Socket.io**. <br>
-🤝 I’m seeking opportunities to optimize **backend performance**, enhance **security practices**, and implement **scalable architectures**. <br>
-🌱 I’m deepening my knowledge of **backend best practices**, **cloud computing**, and **DevOps** with a focus on deploying and scaling applications using **Docker**, **Kubernetes**, and **AWS**. <br>
-💬 Ask me about building **RESTful APIs**, **integrating backend with frontend**, **data optimization**, or working with **MongoDB** and **PostgreSQL**. <br>
-⚡ Fun fact: I love solving complex coding challenges, especially related to backend architectures, and continuously push myself to stay ahead of the curve with new technologies.
+<h1 align="center">
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There+👋,+Parth+this+side!!;Welcome+to+my+Github+Profile;I'm+a+Backend+Focused+Developer;Working+on+robust+MERN+Architectures;Always+excited+to+learn+new+tech;Feel+free+to+explore+my+repos!;Cheers+%F0%9F%8D%BB" alt="Typing SVG" /></a>
+</h1>
 
+<h3 align="center">{ Building the backbone of web apps, one scalable backend at a time }</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Parthshukla26&label=Profile%20views&color=0e75b6&style=flat" alt="parthshukla26" height="30"/> </p>
+<img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc28yajZzamR2OWI1eHE1Z2NocG51bzZ1eng2eW5pc2syY2k0YXRobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parthshukla808) 
+- 👨‍💻 Name: **Parth Shukla**
+- 🎓 Passionate about: **Backend Architecture, API Design, Cloud Deployments**
+- 🏫 University: **IIIT Nagpur**
+- 📍 Location: **India**
+- 💬 Ask me about: **MERN, PostgreSQL, DevOps, Docker, AWS, Scaling**
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/parthshukla808)**
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Parthshukla26&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Parthshukla26&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parthshukla26&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc28yajZzamR2OWI1eHE1Z2NocG51bzZ1eng2eW5pc2syY2k0YXRobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" style="margin-right: 40 px;margin-left: 0 px">
-   
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h2 align="left">🌐 Connect with me</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/parthshukla808" target="blank">
+<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="120" /></a>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Parthshukla26&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h2 align="left">💻 Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgresql,mysql,docker,firebase,vercel,redux,github,git,arduino,threejs,python,jwt" />
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Parthshukla26&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2 align="left">📊 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Parthshukla26&theme=transparent&show_icons=true" height="220px" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthshukla26&layout=compact&theme=transparent" height="220px" width="315px" />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthshukla26&theme=transparent" height="200px"/>
+</p>
+
+<h2 align="left">🔝 Top Contributed Repo</h2>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Parthshukla26&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+<h2 align="left">✍️ Random Dev Quote</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Thanks%20For%20Visiting&section=footer"/>
+</p>
