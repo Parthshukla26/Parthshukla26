@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="MasterHead">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzl1d21vdXljdnJucDYzOGx0M3M2ZmUwMnp3aWxwazU2NWh1YWlrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5e25aUTZPcI94uMZgv/giphy.gif" alt="MasterHead">
 </p>
 
 <h1 align="center">
@@ -15,15 +15,15 @@
 - <img src = "https://cdn2.iconfinder.com/data/icons/colored-simple-circle-volume-04/128/circle-flat-general-53623030e-512.png" width = 25px> Occupation : **Backend Developer | MERN Stack Engineer**
 - <img src = "https://cdn-icons-png.freepik.com/256/5352/5352118.png?semt=ais_hybrid" width = 25px> University : **IIIT Nagpur**
 - <img src = "https://cdn-icons-png.freepik.com/512/3183/3183012.png" width = 25px> Location : **India**
-- <img src = "https://cdn-icons-png.flaticon.com/512/7245/7245025.png" width = 25px> Ask me about : **APIs, MERN Stack, DevOps, Scalable Backend Architectures**
+- <img src = "https://cdn-icons-png.flaticon.com/512/7245/7245025.png" width = 25px> Ask me about : **MERN, DSA, ML, DevOps, System Design**
 - <img src = "https://static.vecteezy.com/system/resources/thumbnails/014/440/980/small_2x/email-message-icon-design-in-blue-circle-png.png" width = 25px> How to reach me :  **parthshukla808@gmail.com**
-- <img src = "https://cdn-icons-png.flaticon.com/512/12496/12496748.png" width = 25px> My Portfolio : **Coming Soon 🚀**
+- <img src = "https://cdn-icons-png.flaticon.com/512/12496/12496748.png" width = 25px> My Portfolio : https://parthshukla.dev
 
 <br>
 <h2 align="left"><img src="https://github.com/user-attachments/assets/578f739b-172a-4b8f-a1f6-648ba0b12af5" width="30px" height="30px" "> Hacktoberfest 2024 <img src="https://github.com/user-attachments/assets/0e8a5418-ffc3-440b-91df-b4cb3046d83f" width="30px" height="30px" ></h2>
 <p align="center">
    <a href="https://holopin.io/@parthshukla26">
-      <img src="https://holopin.me/supratitdatta" alt="Holopin Badges" width="full">
+      <img src="https://holopin.me/parthshukla26" alt="Holopin Badges" width="full">
    </a>
 </p>
 
