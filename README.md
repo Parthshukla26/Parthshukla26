@@ -4,9 +4,21 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There+👋,+Parth+this+side!!;Welcome+to+my+Github+Profile;I'm+a+Backend+Specialist+and+Full+Stack+Developer;Crafting+clean+architecture+with+MERN+Stack;Let's+connect+and+collab+%F0%9F%9A%80" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?
+        font=Fira+Code
+        &pause=1000
+        &width=435
+        &lines=Hello+There+%F0%9F%91%8B+Parth+this+side!!
+        ;Welcome+to+my+Github+Profile
+        ;I%27m+a+Backend+Specialist+and+Full+Stack+Developer
+        ;Crafting+clean+architecture+with+MERN+Stack
+        ;Let%27s+connect+and+collab+%F0%9F%9A%80"
+      alt="Typing SVG"
+    />
   </a>
 </h1>
+
 
 
 
