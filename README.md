@@ -3,8 +3,11 @@
 </p>
 
 <h1 align="center">
-<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There+👋,+Parth+this+side!!;Welcome+to+my+Github+Profile;I'm+a+Backend+Specialist+and+Full+Stack+Developer;Crafting+clean+architecture+with+MERN+Stack;Always+learning,+always+building;Feel+free+to+explore+my+repositories!;Let's+connect+and+collab+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World;Testing+SVG+Banner" alt="Typing SVG" />
+  </a>
 </h1>
+
 
 <h3 align="center">{ Fueled by chai & challenges — Building scalable backends, one commit at a time }</h3>
 
